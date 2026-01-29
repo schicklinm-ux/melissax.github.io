@@ -118,10 +118,11 @@ h3 {
 }
 
 h4 {
-   font-family: "Cormorant Garamond", sans-serif;
+   font-family: "Cormorant Garamond", serif;
    font-style: italic;
    text-align: left;
    font-size: 1.25em;
+}
 
 p, li {
   font-size: 1em;
