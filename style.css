@@ -168,3 +168,10 @@ footer a:hover {
     width: 180px;
   }
 }
+
+a.section-title,
+a.section-title:visited,
+a.section-title:hover,
+a.section-title:active {
+  text-decoration: none !important;
+}
